@@ -1,0 +1,161 @@
+2022-05-30 17:28:37,710  INFO [main] BaseClass:30 - browser open
+2022-05-30 17:28:39,498  INFO [main] BaseClass:32 - URL is opened
+2022-05-30 17:28:39,927  INFO [main] BaseClass:44 - CLick on login button
+2022-05-30 17:28:40,116  INFO [main] BaseClass:53 - logout successful
+2022-05-30 17:28:43,823  INFO [main] BaseClass:30 - browser open
+2022-05-30 17:28:45,055  INFO [main] BaseClass:32 - URL is opened
+2022-05-30 17:28:45,409  INFO [main] BaseClass:44 - CLick on login button
+2022-05-30 17:28:45,417  INFO [main] BaseClass:31 - Validation applied
+2022-05-30 17:28:45,418  INFO [main] BaseClass:35 - website start to login
+2022-05-30 17:28:45,617  INFO [main] BaseClass:53 - logout successful
+2022-05-30 17:28:51,016  INFO [main] BaseClass:30 - browser open
+2022-05-30 17:28:53,832  INFO [main] BaseClass:32 - URL is opened
+2022-05-30 17:28:54,190  INFO [main] BaseClass:44 - CLick on login button
+2022-05-30 17:28:54,714  INFO [main] BaseClass:53 - logout successful
+2022-05-30 17:28:58,058  INFO [main] BaseClass:30 - browser open
+2022-05-30 17:28:59,466  INFO [main] BaseClass:32 - URL is opened
+2022-05-30 17:28:59,903  INFO [main] BaseClass:44 - CLick on login button
+2022-05-30 17:29:00,017  INFO [main] BaseClass:29 - Clicked on menu button
+2022-05-30 17:29:00,167  INFO [main] BaseClass:32 - Clicked on logout button
+2022-05-30 17:29:00,168  INFO [main] BaseClass:34 - apply validation for log out functionality
+2022-05-30 17:29:00,386  INFO [main] BaseClass:53 - logout successful
+2022-05-30 17:30:54,508  INFO [TestNG-test=Test-3] BaseClass:30 - browser open
+2022-05-30 17:30:55,891  INFO [TestNG-test=Test-3] BaseClass:32 - URL is opened
+2022-05-30 17:30:56,330  INFO [TestNG-test=Test-3] BaseClass:44 - CLick on login button
+2022-05-30 17:30:56,424  INFO [TestNG-test=Test-3] BaseClass:29 - Clicked on menu button
+2022-05-30 17:30:56,574  INFO [TestNG-test=Test-3] BaseClass:32 - Clicked on logout button
+2022-05-30 17:30:56,574  INFO [TestNG-test=Test-3] BaseClass:34 - apply validation for log out functionality
+2022-05-30 17:30:56,825  INFO [TestNG-test=Test-3] BaseClass:53 - logout successful
+2022-05-30 17:31:00,547  INFO [TestNG-test=Test-1] BaseClass:30 - browser open
+2022-05-30 17:31:01,724  INFO [TestNG-test=Test-1] BaseClass:32 - URL is opened
+2022-05-30 17:31:02,110  INFO [TestNG-test=Test-1] BaseClass:44 - CLick on login button
+2022-05-30 17:31:02,302  INFO [TestNG-test=Test-1] BaseClass:53 - logout successful
+2022-05-30 17:31:06,877  INFO [TestNG-test=Test-2] BaseClass:30 - browser open
+2022-05-30 17:31:08,073  INFO [TestNG-test=Test-2] BaseClass:32 - URL is opened
+2022-05-30 17:31:08,519  INFO [TestNG-test=Test-2] BaseClass:44 - CLick on login button
+2022-05-30 17:31:09,127  INFO [TestNG-test=Test-2] BaseClass:53 - logout successful
+2022-05-30 17:31:12,913  INFO [TestNG-test=Test-1] BaseClass:30 - browser open
+2022-05-30 17:31:14,835  INFO [TestNG-test=Test-1] BaseClass:32 - URL is opened
+2022-05-30 17:31:15,245  INFO [TestNG-test=Test-1] BaseClass:44 - CLick on login button
+2022-05-30 17:31:15,251  INFO [TestNG-test=Test-1] BaseClass:31 - Validation applied
+2022-05-30 17:31:15,251  INFO [TestNG-test=Test-1] BaseClass:35 - website start to login
+2022-05-30 17:31:15,424  INFO [TestNG-test=Test-1] BaseClass:53 - logout successful
+2022-05-31 15:23:22,720  INFO [main] BaseClass:30 - browser open
+2022-05-31 15:23:24,262  INFO [main] BaseClass:32 - URL is opened
+2022-05-31 15:23:24,661  INFO [main] BaseClass:44 - CLick on login button
+2022-05-31 15:23:24,887  INFO [main] BaseClass:53 - logout successful
+2022-05-31 15:23:27,933  INFO [main] BaseClass:30 - browser open
+2022-05-31 15:23:28,679  INFO [main] BaseClass:32 - URL is opened
+2022-05-31 15:23:29,106  INFO [main] BaseClass:44 - CLick on login button
+2022-05-31 15:23:29,122  INFO [main] BaseClass:31 - Validation applied
+2022-05-31 15:23:29,122  INFO [main] BaseClass:35 - website start to login
+2022-05-31 15:23:29,329  INFO [main] BaseClass:53 - logout successful
+2022-05-31 15:23:32,439  INFO [main] BaseClass:30 - browser open
+2022-05-31 15:23:33,474  INFO [main] BaseClass:32 - URL is opened
+2022-05-31 15:23:33,925  INFO [main] BaseClass:44 - CLick on login button
+2022-05-31 15:23:34,596  INFO [main] BaseClass:53 - logout successful
+2022-05-31 15:23:37,574  INFO [main] BaseClass:30 - browser open
+2022-05-31 15:23:39,516  INFO [main] BaseClass:32 - URL is opened
+2022-05-31 15:23:39,982  INFO [main] BaseClass:44 - CLick on login button
+2022-05-31 15:23:40,076  INFO [main] BaseClass:29 - Clicked on menu button
+2022-05-31 15:23:40,244  INFO [main] BaseClass:32 - Clicked on logout button
+2022-05-31 15:23:40,244  INFO [main] BaseClass:34 - apply validation for log out functionality
+2022-05-31 15:23:40,475  INFO [main] BaseClass:53 - logout successful
+2022-05-31 15:44:22,407  INFO [main] BaseClass:32 - browser open
+2022-05-31 15:44:24,968  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 15:44:25,395  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 15:44:25,910  INFO [main] BaseClass:55 - logout successful
+2022-05-31 15:44:28,978  INFO [main] BaseClass:32 - browser open
+2022-05-31 15:44:30,394  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 15:44:30,838  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 15:44:30,852  INFO [main] BaseClass:31 - Validation applied
+2022-05-31 15:44:30,853  INFO [main] BaseClass:35 - website start to login
+2022-05-31 15:44:31,265  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:03:23,678  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:03:25,361  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:03:25,753  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:03:26,196  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:03:29,203  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:03:30,783  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:03:31,207  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:03:31,219  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:03:31,220  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:03:31,677  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:05:58,603  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:05:59,774  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:06:00,168  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:06:00,647  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:06:03,670  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:06:05,198  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:06:05,680  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:06:05,694  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:06:05,694  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:06:06,081  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:15:37,054  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:15:38,343  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:15:38,740  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:15:39,061  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:15:42,141  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:15:43,356  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:15:43,845  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:15:43,858  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:15:43,859  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:15:44,290  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:17:53,531  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:17:54,501  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:17:54,968  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:17:54,989  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:17:54,989  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:17:55,399  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:18:42,200  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:18:43,958  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:18:44,343  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:18:44,357  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:18:44,357  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:18:44,752  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:21:42,113  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:21:43,698  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:21:44,054  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:21:44,068  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:21:44,069  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:21:44,477  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:24:32,623  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:24:34,972  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:24:35,315  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:24:35,328  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:24:35,329  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:24:35,718  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:25:42,767  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:25:44,602  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:25:45,007  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:25:45,024  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:25:45,024  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:25:45,464  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:31:39,014  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:31:40,126  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:31:40,597  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:31:41,317  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:33:54,783  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:33:56,519  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:33:56,932  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:33:57,511  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:48:02,887  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:48:04,029  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:48:04,401  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:48:04,956  INFO [main] BaseClass:55 - logout successful
+2022-05-31 16:51:45,700  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:51:46,844  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:51:47,152  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:51:47,171  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:51:47,171  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:55:23,248  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:55:25,659  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:55:25,957  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:55:25,971  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:55:25,971  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:57:37,674  INFO [main] BaseClass:32 - browser open
+2022-05-31 16:57:38,986  INFO [main] BaseClass:34 - URL is opened
+2022-05-31 16:57:39,371  INFO [main] BaseClass:46 - CLick on login button
+2022-05-31 16:57:39,395  INFO [main] BaseClass:32 - Validation applied
+2022-05-31 16:57:39,396  INFO [main] BaseClass:36 - website start to login
+2022-05-31 16:57:39,867  INFO [main] BaseClass:55 - logout successful
